@@ -1,5 +1,5 @@
-s="2fc11f8c5639c5a7257d4e3c32d6a5c951cf7d11"
+s="hello"
 c=0
 for i in s:
 	c+=1
-print(c)
+print(c)last line
